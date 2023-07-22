@@ -1,3 +1,9 @@
+HACKOTHON PROJECT :
+
+https://drive.google.com/file/u/0/d/1xx1EXx0NsQTzgVGa3taE20oYIMyodvJj/view?usp=drivesdk& (source code)
+
+CODES:
+
 1. TO FIND THE AVERAGE  OF SERIES IN NUMBER
 
 sum=0
